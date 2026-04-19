@@ -23,7 +23,7 @@ Use the following version of the geometric progression formula, in which __a1__ 
 > total = a<sub>1</sub> × r <sup>n</sup>
 
 
-```
+```python
 def get_follower_prediction(follower_count, influencer_type, num_months):
 
     # Determine the multiplication constant (r) based on the influencer type
